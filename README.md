@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Norman, or @brazhnyknorman
-- ✍️ I’m interested in learning useful skills at a fast pace
-- ⚡ I am entirely self taught, and think traditional lectures are boring and unproductive
-- 📫 Email: **brazhnyknorman@gmail.com**
+- 👋 I’m Norman
+- I am entirely self taught (who isn't)
+- brazhnyknorman@gmail.com
