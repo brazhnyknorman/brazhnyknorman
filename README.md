@@ -1,3 +1,2 @@
 - 👋 I’m Norman
 - I am entirely self taught (who isn't)
-- brazhnyknorman@gmail.com
